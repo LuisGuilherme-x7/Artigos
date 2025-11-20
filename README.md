@@ -11,9 +11,15 @@ Artigos completos publicados em periódicos:
 
 Trabalhos completos publicados em anais de congressos
 6. Análise de Desempenho e Planejamento de Capacidade em Arquiteturas MQTT para Aplicações IoT – Anais do XXIV WPerformance, 2025. DOI: http://dx.doi.org/10.5753/wperformance.2025.8397
+
 7. Elasticidade de Containers em VANETs: Uma Estratégia de Sustentabilidade Energética em RSUs – Anais do XVI WCAMA, 2025. DOI: http://dx.doi.org/10.5753/wcama.2025.8406
+
 8. Avaliação de Dependabilidade e Análise de Sensibilidade de um Sistema de Cuidado Inteligente para Idosos – Anais do LII SEMISH, 2025. DOI: http://dx.doi.org/10.5753/semish.2025.8412
+
 9. Modeling Drone Deliveries Using Petri Nets: An Evaluation on Collision Recovery and Energy Efficiency – IEEE SMC, 2025. DOI: 
+
 10. Planejamento de Arquiteturas Resilientes em Kubernetes: Uma abordagem baseada em Tempo de Recuperação e Consumo Elétrico – Anais do LI SEMISH, 2024. DOI: http://dx.doi.org/10.5753/semish.2024.2997
+
 11. Resilient and Efficient Microservices: Stochastic Modeling and Quantification of Energy Consumption and Recovery Times – IEEE GLOBECOM, 2024. DOI: http://dx.doi.org/10.1109/GLOBECOM52923.2024.10901098
+
 12. Desvendando a Elasticidade de Máquinas Virtuais em VANETs: Uma Estratégia para Aperfeiçoar o Planejamento de Capacidade em RSUs – Anais do XLII SBRC, 2024. DOI: http://dx.doi.org/10.5753/sbrc.2024.1291
